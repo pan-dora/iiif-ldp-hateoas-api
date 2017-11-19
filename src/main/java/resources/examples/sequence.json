@@ -1,0 +1,18 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3.0/context.json"
+  ],
+  "id": "http://my-repository.org/repository/manifests/manifest-UUID/sequences/sequence-UUID",
+  "type": "Sequence",
+  "label": {
+    "en": [
+      "Current Page Order"
+    ]
+  },
+  "renderingDirection": "left-to-right",
+  "renderingHint": [
+    "paged"
+  ],
+  "startCanvas": "http://my-repository.org/repository/manifests/manifest-UUID/canvases/canvas-UUID"
+}

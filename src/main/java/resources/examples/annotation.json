@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3.0/context.json"
+  ],
+  "id": "http://my-repository.org/repository/manifests/manifest-UUID/annotations/annotation-UUID",
+  "type": "Annotation",
+  "motivation": "painting",
+  "body": {
+    "id": "http://my-repository.org/repository/binaries/binary-UUID",
+    "type": "Image",
+    "format": "image/jpeg",
+    "service": {
+      "id": "http://example.org/images/book1-page1",
+      "type": "ImageService3",
+      "profile": "level2"
+    },
+    "height": 2000,
+    "width": 1500
+  },
+  "target": "http://my-repository.org/repository/manifests/manifest-UUID/canvases/canvas-UUID"
+}

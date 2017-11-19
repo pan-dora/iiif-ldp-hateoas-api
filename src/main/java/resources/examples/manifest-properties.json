@@ -1,0 +1,88 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3.0/context.json"
+  ],
+  "id": "http://my-repository.org/repository/manifests/manifest-UUID",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Book 1"
+    ]
+  },
+  "renderingDirection": "right-to-left",
+  "renderingHint": [
+    "paged"
+  ],
+  "navDate": "1856-01-01T00:00:00Z",
+  "rights": [
+    {
+      "id": "http://my-repository.org/repository/binaries/binary-UUID",
+      "type": "Text",
+      "language": "en",
+      "format": "text/html"
+    }
+  ],
+  "attribution": {
+    "en": [
+      "Provided by Example Organization"
+    ]
+  },
+  "logo": {
+    "id": "http://my-repository.org/repository/binaries/binary-UUID",
+    "service": {
+      "id": "http://example.org/service/inst1",
+      "type": "ImageService3",
+      "profile": "level2"
+    }
+  },
+  "related": [
+    {
+      "id": "http://my-repository.org/repository/binaries/binary-UUID",
+      "type": "Video",
+      "label": {
+        "en": [
+          "Video discussing this book"
+        ]
+      },
+      "format": "video/mpeg"
+    }
+  ],
+  "service": [
+    {
+      "id": "http://example.org/service/example",
+      "type": "Service",
+      "profile": "http://example.org/docs/example-service.html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "http://my-repository.org/repository/binaries/binary-UUID",
+      "type": "Dataset",
+      "format": "text/xml",
+      "profile": "http://example.org/profiles/bibliographic"
+    }
+  ],
+  "rendering": [
+    {
+      "id": "http://my-repository.org/repository/binaries/binary-UUID",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Download as PDF"
+        ]
+      },
+      "format": "application/pdf"
+    }
+  ],
+  "within": [
+    {
+      "id": "http://my-repository.org/repository/orgs/org-UUID/collections/collection-UUID",
+      "type": "Collection"
+    }
+  ],
+  "startCanvas": {
+    "id": "http://my-repository.org/repository/manifests/manifest-UUID/canvases/canvas-UUID",
+    "type": "Canvas"
+  }
+}

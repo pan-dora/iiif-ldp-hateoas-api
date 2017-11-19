@@ -1,0 +1,16 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3.0/context.json"
+  ],
+  "id": "http://my-repository.org/repository/manifests/manifest-UUID/canvases/canvas-UUID",
+  "type": "Canvas",
+  "label": {
+    "@none": [
+      "p. 1"
+    ]
+  },
+  "height": 1000,
+  "width": 750,
+  "duration": 180.0
+}

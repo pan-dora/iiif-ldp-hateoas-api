@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3.0/context.json"
+  ],
+  "id": "http://my-repository.org/repository/collections/collections-UUID",
+  "type": "Collection",
+  "label": "Top Level Collection for Example Organization",
+  "renderingHint": "top",
+  "description": "Description of Collection",
+  "attribution": "Provided by Example Organization"
+}

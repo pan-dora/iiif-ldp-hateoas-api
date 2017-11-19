@@ -1,0 +1,9 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3.0/context.json"
+  ],
+  "id": "http://my-repository.org/repository/orgs",
+  "type": "Collection",
+  "items": []
+}

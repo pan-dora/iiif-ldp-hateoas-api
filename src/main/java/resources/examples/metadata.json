@@ -1,0 +1,62 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3.0/context.json"
+  ],
+  "id": "http://my-repository.org/repository/manifests/manifest-UUID",
+  "type": "Manifest",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Author"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Anne Author"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Published"
+        ]
+      },
+      "value": {
+        "en": [
+          "Paris, circa 1400"
+        ],
+        "fr": [
+          "Paris, environ 1400"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Notes"
+        ]
+      },
+      "value": {
+        "en": [
+          "Text of note 1",
+          "Text of note 2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "@none": [
+          "<span>From: <a href=\"http://example.org/db/1.html\">Some Collection</a></span>"
+        ]
+      }
+    }
+  ]
+}
