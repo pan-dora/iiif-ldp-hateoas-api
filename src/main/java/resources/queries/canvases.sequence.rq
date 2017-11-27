@@ -1,0 +1,15 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX sc: <http://iiif.io/api/presentation/2#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX as: <http://www.w3.org/ns/activitystreams#>
+CONSTRUCT {?sequenceIRI rdf:type sc:Sequence .
+?sequenceIRI as:items ?canvaslist .
+?mid rdf:first ?canvas .
+?mid rdf:rest ?last .
+?canvas rdf:type sc:Canvas }
+WHERE {values ?sequenceIRI {<http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__OSEK_37_____0D6W3OF-cs/#sequence-0>} .
+GRAPH ?g {?sequenceIRI sc:hasCanvases ?canvaslist .
+?canvaslist rdf:rest* ?mid .
+?mid rdf:first ?canvas .
+?mid rdf:rest ?last .
+}}

@@ -1,0 +1,14 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX sc: <http://iiif.io/api/presentation/2#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX as: <http://www.w3.org/ns/activitystreams#>
+CONSTRUCT {?manifestIRI rdf:type sc:Manifest .
+?seqid rdf:first ?sequence .
+?seqid rdf:rest ?seqrest .
+?manifestIRI  as:items ?sequence .
+?sequence rdf:type sc:Sequence}
+WHERE {values ?manifestIRI {<http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__OSEK_37_____0D6W3OF-cs/>} .
+GRAPH ?g {?manifestIRI sc:hasSequences ?seqid .
+?seqid rdf:first ?sequence .
+?seqid rdf:rest ?seqrest .
+}}

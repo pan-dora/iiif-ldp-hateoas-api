@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "sc" : "http://iiif.io/api/presentation/2#",
+    "as" : "http://www.w3.org/ns/activitystreams#",
+    "items":
+    {"@type": "@id",
+      "@id": "as:items",
+      "@container": "@list"
+    }
+  },
+  "items": [
+    {
+      "@type": "sc:Manifest"
+    }
+  ]
+}

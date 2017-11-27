@@ -1,0 +1,11 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX sc: <http://iiif.io/api/presentation/2#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX as: <http://www.w3.org/ns/activitystreams#>
+CONSTRUCT {?collectionIRI rdf:type sc:Collection .
+?collectionIRI as:items ?manifest .
+?manifest rdf:type sc:Manifest}
+WHERE {GRAPH ?g {?manifest rdf:type sc:Manifest .
+{BIND (URI(STR(CONCAT("https://api.repository.org/orgs/example.domain.org/collections/" , STRUUID()))) AS ?collectionIRI) }.
+FILTER(regex(str(?manifest),"collectiones.manuscriptorium.com"))
+}}

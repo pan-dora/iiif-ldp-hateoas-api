@@ -1,0 +1,977 @@
+{
+  "@graph": [
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_A_23____3WAQXX9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_A_6_____1S5CMO6-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_B_5_____4EAN665-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_C_7_____0BEFLRE-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_D_13____4DHZ2Y8-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_F_11____372A0WF-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_F_14____3GY8SO0-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_F_2_____1QZBBTA-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_18____23NN3WE-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_19____08U8518-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_26____35GA4WA-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_28____1F75HCD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_8_____2BMOTN3-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_H_1_____4AHJ9UA-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_A_18_____3CPEMH2-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_A_3______3R8BCWC-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_B_1______0WZGQF9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_C_18_____1UZWSH9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_E_25_____0H9F4BB-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_F_25_____05O0TX5-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_14_____44A8VQ5-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_23_____1JFOY85-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_25_____32XF7N0-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_27_____1NPB2PC-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_2______2YT7PE8-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_H_17_____0S1XEW9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_H_19_____3IY1FCE-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_H_9______0YPMEHD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_A_1______2DXF1W1-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_D_5______2CX2JF3-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_E_14_____26D4H5E-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_E_1______2H2CQHD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_E_2______0ER8BM7-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_A_47______47G5YLE-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_B_16______42ACGU3-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_B_28______0O7JW27-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_C_41______334B1Y0-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_D_11______1ESMK9C-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_D_9_______29H59D4-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_16______22M80LA-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_17______00BHUKC-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_30______2ZVWBYD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_45______2KDU8A5-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_47______26MU6W9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_F_51______2REEHT3-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_F_9_______28JSTJA-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_17______2YGWPG7-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_27______28XU3S4-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_43______3M7GCXB-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_58______1MWF192-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__OSEK_37_____0D6W3OF-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_B_26___2GG8U5F-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_B_27___4CHK1G9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_B_6____30XYOX6-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_C_3____3VBFUYE-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_D_2____308MZVD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_E_11___2V4KEO6-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_F_22___03IKY11-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_F_7____3UXX7PC-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_G_26___38E5KUD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_G_32___2UEEWB5-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VII_E_27____3K3GFD0-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VII_H_17____0CQP20E-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VII_H_18____2AXLDTF-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VI_C_21_____1KMQWH7-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VI_E_12_____3KL84R2-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_C_4_______0HCQPZF-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_E_14______1UTR7N8-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_E_7_______2BTXG77-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_F_17______3WAGO6C-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_F_22______39BUKY0-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_F_2_______48KM621-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_15______35MWEA5-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_6_______47KRMGF-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_7_______2BJ3RL9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_9_______1PGRUPE-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_H_19______40PYKL8-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_E_5____0OJC8HB-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_E_7____3HNC837-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_F_16___3WJWWD9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_F_21___1GP7AJ9-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XII_F_15B___034DM32-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_C_26____233EWQ6-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_D_5_____3S5X87E-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_D_6_____15VFQK4-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_G_17____2YRA7U4-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_G_22____4604CU8-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIX_A_50____1CY5JUF-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XI_D_2______2A1KMPC-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XI_D_5______0I54VFF-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XVII_A_16___3RQSCE7-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XVII_C_21___3FQ58WC-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XXIII_D_201_1B7UW10-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_A_1______14OGO7F-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_B_14_____0L7IMTD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_B_6______3TZV145-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_B_7______2Y5RDD3-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_A_2_______1CRH6C5-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_C_23______3CKR674-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_E_20______26742X2-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_E_7_______0ZVN8X6-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_G_11______2F0LP0C-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_G_1_______3O46ECD-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_G_3_______12FQT21-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_H_10______2UEEHKC-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_H_18______2YO5ZVE-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_H_2_______152NF0A-cs/",
+      "@type": "sc:Manifest"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/0342aaf2-b772-48ea-be90-298a555ef5ab",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_C_23______3CKR674-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/04782c88-81cf-4d7b-8ac6-f15d83f094a5",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_G_26___38E5KUD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/095937bc-3547-40ef-b338-682cbabfa9e9",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_H_10______2UEEHKC-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/0e3ea366-142d-4275-957e-01f6b6b6d767",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_F_22______39BUKY0-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/129948b7-46b1-4863-84a8-2f19a9f910d8",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_B_6____30XYOX6-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/1651685f-fc56-4d81-9c79-f5650e59a612",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_A_1______2DXF1W1-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/16c8e93f-7800-4fcb-b178-2047a10748da",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_B_26___2GG8U5F-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/1ce65b29-345a-4963-8592-4fbc5d8e2c3b",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_45______2KDU8A5-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/1d76d953-34c2-4ddd-a6a8-869c417cb9c7",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VI_C_21_____1KMQWH7-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/1e397619-176b-4524-adc5-02925e9fafc1",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_D_11______1ESMK9C-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/2016000a-2f42-4dc5-9e85-abcb6e746eff",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_A_2_______1CRH6C5-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/2728a084-94cc-4234-b972-cbf5f762e77d",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIX_A_50____1CY5JUF-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/28350fd4-a274-493f-ac7f-b525b4e8a048",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_H_2_______152NF0A-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/2a67def0-6e54-412a-88d5-947218128340",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_E_2______0ER8BM7-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/2ea5b420-9e26-40e0-b425-555128bad05f",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_D_5_____3S5X87E-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/2eeacb0c-ac76-48d1-92b7-95cf70e531d8",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_B_16______42ACGU3-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/30ac6bc6-bc7c-466a-82a6-8048c22ae25c",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_43______3M7GCXB-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/30bd434b-b3aa-4c1c-baf0-ca4f7f0d596a",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_17______00BHUKC-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/31b16178-699a-4b98-8dcc-f51af44c9427",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_F_2_______48KM621-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/36c291da-eed8-433c-b308-1a964daf56bf",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_H_17_____0S1XEW9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/38470268-aa2a-4584-be18-7dd66b497ad9",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_G_17____2YRA7U4-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/3919a879-6738-445a-aa05-ea81682c9ee3",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VI_E_12_____3KL84R2-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/3955c28d-7fda-414d-90c7-f56bab41be84",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_14_____44A8VQ5-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/3e55b121-dd16-4355-a3ea-2e821f9e015f",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VII_E_27____3K3GFD0-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/3e6e1bb4-9895-4c6b-91f8-236426b2a95f",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_C_18_____1UZWSH9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/4013eb1a-f50b-46ea-ace4-940f49f502a6",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_E_14_____26D4H5E-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/40dff386-5afd-4dd0-9a51-2d0b20637561",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_F_14____3GY8SO0-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/42ca1aa8-40cb-4e9d-a4a5-7103f998c571",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XVII_A_16___3RQSCE7-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/4368c4bd-f540-4bd9-8044-429add5fc36d",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_6_______47KRMGF-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/467d48b5-910b-4e77-99b2-68e78b026233",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_15______35MWEA5-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/4b726f27-3425-4ce0-a460-0993c90c7354",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_B_1______0WZGQF9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/4cc25af7-e002-480d-8cb2-fb525d08b2cc",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_B_7______2Y5RDD3-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/4f0a1986-261f-4361-9601-403464607902",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_F_11____372A0WF-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/51a02b22-a210-41c9-b1b9-2ea2ba68f5c6",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_D_9_______29H59D4-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/51b9e1a4-269d-40e2-aa50-8e2a06b14c69",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_7_______2BJ3RL9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/530fa683-9627-4e21-bcfc-773a022f4891",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_18____23NN3WE-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/545f0cf4-3d10-4143-8a06-35cb980de3f2",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_47______26MU6W9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/551139cb-6b5d-4f18-bee6-581a24d1a83e",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_27______28XU3S4-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/594eaabe-2fd8-400f-85fa-c5d25718cfcc",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_H_18______2YO5ZVE-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/5a0b9237-e19c-42e0-8bb0-f87fdb3de840",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_F_25_____05O0TX5-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/5aadc857-d425-4e2f-9631-dec9223eff27",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_B_28______0O7JW27-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/5bf1bf56-df48-400f-9305-297d5dd7dcbf",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_H_1_____4AHJ9UA-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/60443909-4140-40d3-a3c3-84322b85f6a0",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VII_H_18____2AXLDTF-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/60711734-e37a-488e-8cc4-3974b388dd02",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XI_D_5______0I54VFF-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/63bd9633-586b-40c4-a778-907703295266",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_27_____1NPB2PC-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/63eef822-8368-4885-9cb2-502acbaac533",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_G_11______2F0LP0C-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/6503d0d7-7d7b-4a84-8fc3-96c4d110e92d",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_B_14_____0L7IMTD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/6519e162-b63a-4689-b8ba-0dc6b377c306",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_19____08U8518-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/65d8711d-7cba-4d90-8c86-066eac8daa81",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_E_1______2H2CQHD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/67d7f5e3-2989-4a5e-9bd0-f001e907a875",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_F_7____3UXX7PC-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/6877b5c2-2658-4ee6-b5c9-545fa7b66650",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_D_13____4DHZ2Y8-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/69620aff-2e6b-4415-acd6-80f95f3528be",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_H_19______40PYKL8-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/6c218b3e-be17-4410-ac9e-8c5ed6cbf7fe",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_E_25_____0H9F4BB-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/70643c45-606b-4bd4-80e2-8dcb88af19d3",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_G_32___2UEEWB5-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/720204ca-ab53-406d-a86f-287b8645d8ec",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_B_6______3TZV145-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/7279fdb1-51d7-4859-bbb8-877937f0234e",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_17______2YGWPG7-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/7465f41e-8a80-4a9b-8062-91ea3139c1e0",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_25_____32XF7N0-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/75884a0d-6656-4877-b839-35346e0ae519",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_26____35GA4WA-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/766972f0-7366-4398-8df7-eadaead5e367",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_D_6_____15VFQK4-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/76cb19df-1d36-4c5e-b662-27d7ed5e8d0f",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IX_D_5______2CX2JF3-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/7c9db69b-0dbc-4c0a-90c0-76e73d7d4bbc",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_F_2_____1QZBBTA-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/84a5c01f-8d6c-4279-98d9-1138f0563818",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_A_18_____3CPEMH2-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/84de411d-3100-4dcc-900d-0c1c4bf6306c",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_30______2ZVWBYD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/85ce29ed-13af-4d86-9d61-452251f3b54b",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_2______2YT7PE8-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/8964d538-1a55-4c02-a3cb-08b953090bd3",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_E_5____0OJC8HB-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/899e8056-00bc-4a80-9e74-c0f4a05154d2",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_G_22____4604CU8-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/8b0ec251-9d81-420e-99d9-0021bdb6b5a3",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_E_7____3HNC837-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/8ba3ace6-3dda-4ab6-9c1f-6e6f5dbef0e0",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_G_23_____1JFOY85-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/8d498542-1e88-4a68-a4d3-6a6c6b391082",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_C_41______334B1Y0-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/91c2752e-ec72-4f92-abd7-090c6cac9e51",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_B_27___4CHK1G9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/9460d7c2-f8dd-4ffe-b61e-3f58e9e852c2",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_A_3______3R8BCWC-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/9af566be-6a5d-498e-9155-6548c0f4f9dc",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_E_11___2V4KEO6-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/9bcafa10-553e-4b67-8001-293466736d80",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_G_1_______3O46ECD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/9e7b9bd5-a374-4ac3-95f5-7a443e4b3e22",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_F_16___3WJWWD9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/a305e7ba-1cc6-41de-83e7-c62d66f4b642",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_E_14______1UTR7N8-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/a37426b7-1fd1-4818-b42c-7e55dc14d16e",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_H_19_____3IY1FCE-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/a73bdc3a-915b-4aed-9a1c-bd55c2bffeb5",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XII_F_15B___034DM32-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/ab56b3e6-058b-4ae7-b01a-763c8e616c1f",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_A_23____3WAQXX9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/b2178770-1abb-4f8c-84d4-a2c9ba9e237c",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_A_6_____1S5CMO6-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/b36a0bd4-da09-4526-828e-8b94ba39dd8b",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_F_9_______28JSTJA-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/b99967dd-2ebb-4bcc-8a78-9a155c5afa61",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_B_5_____4EAN665-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/ba71735f-982d-4367-913f-a162f9332e20",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XI_D_2______2A1KMPC-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/baebef1a-3f6a-4375-9878-7299e6028bc9",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__OSEK_37_____0D6W3OF-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/bc191c69-4ba1-4e42-9421-53ff2fe77077",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_8_____2BMOTN3-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/bf468638-c24e-48ba-be2a-1940c6d1c13c",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIII_F_21___1GP7AJ9-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/c07c9d6d-19c9-43aa-a523-43b640923a20",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_F_17______3WAGO6C-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/c49b7058-d2c3-4bc5-8bfb-df380fdeb8bb",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_C_4_______0HCQPZF-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/c717d818-ff05-4a42-aae1-8da1b719e14b",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VII_H_17____0CQP20E-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/c93d83ec-db0e-4775-8238-f12fcc87d4fc",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_D_2____308MZVD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/c99ba8e9-4714-4a03-91f0-03d87a49131f",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XVII_C_21___3FQ58WC-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/cb0ec5ba-f9e8-4221-9d21-11d05c4c85aa",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_F_22___03IKY11-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/ce13b9f8-b93c-4814-a738-140e180d6373",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XX_A_1______14OGO7F-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/ceed0029-cc1a-4c4f-a256-21fb57f9166d",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_E_16______22M80LA-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/d2faafc1-99f9-4e92-bb8a-7678ac02c718",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XXIII_D_201_1B7UW10-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/d4a2761d-fcd0-40d2-9614-25bf056c42d0",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_G_28____1F75HCD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/d7b9edc3-cd48-4182-bcc6-50e5bfdd2dc3",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_G_58______1MWF192-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/d7dd9e32-6404-4429-b511-325ba6f66e52",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_G_3_______12FQT21-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/d997beed-d9de-418b-ae6d-a8d8ef96a8bc",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__III_C_7_____0BEFLRE-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/e22348b5-f96e-48f0-aff4-f9d95cc89f91",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_A_47______47G5YLE-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/eb0bd7d0-01b1-4f92-9755-bd232ec18242",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_G_9_______1PGRUPE-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/eb2d392f-d7bc-4697-ad3c-7264fed6e380",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__I_F_51______2REEHT3-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/eb59a17a-8f55-4202-977b-d0f653c78de2",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__V_E_7_______2BTXG77-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/f4b12199-8227-433f-9eb5-7f5951c8e4fe",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_E_20______26742X2-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/f7cdf6ad-16a5-402e-8f7b-000454361f50",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__IV_H_9______0YPMEHD-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/f8363cd6-72db-4f6c-bbbb-88de454c74a6",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__XIV_C_26____233EWQ6-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/fab20b17-dbc7-4572-bd47-0854f361ca78",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__X_E_7_______0ZVN8X6-cs/"
+    },
+    {
+      "@id": "https://api.repository.org/orgs/collectiones.manuscriptorium.com/collections/fb267063-65b0-4612-875a-f957281a252b",
+      "@type": "sc:Collection",
+      "items": "http://collectiones.manuscriptorium.com/unescoCzechReformation/AIPDIG-NKCR__VIII_C_3____3VBFUYE-cs/"
+    }
+  ],
+  "@context": {
+    "items": {
+      "@id": "http://www.w3.org/ns/activitystreams#items",
+      "@type": "@id"
+    },
+    "sc": "http://iiif.io/api/presentation/2#",
+    "as": "http://www.w3.org/ns/activitystreams#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+  }
+}
